@@ -1,0 +1,5 @@
+format-message:
+  to-messenger: "%luckperms_prefix% | {username} » {message}"
+  to-minecraft: "&bMessenger |&r {username} » {message}"
+command-not-found: "{prefix} &eLệnh Không Hợp Lệ"
+reload: "{prefix} &aReload Thành Công"

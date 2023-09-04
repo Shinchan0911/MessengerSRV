@@ -1,0 +1,16 @@
+name: MessengerSRV
+version: '${project.version}'
+main: me.shinthl09.MessengerSRV
+api-version: 1.13
+author: ShinTHL09
+
+commands:
+  messengersrv:
+    usage: /<command>
+    description: "MessengerSRV Command"
+    aliases: [ messenger ]
+permissions:
+  messengersrv.*:
+    description: "Permissions Admin"
+    default: op
+
