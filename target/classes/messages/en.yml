@@ -1,3 +1,0 @@
-format-message:
-  to-messenger: "%luckperms_prefix% | {username} » {message}"
-  to-minecraft: "&bMessenger |&r {username} » {message}"

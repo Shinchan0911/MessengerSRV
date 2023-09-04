@@ -1,8 +1,0 @@
-prefix: "&8&l[&a&AdminIP&8&l] &8»"
-messages: "en" #language
-port: 5000
-token: ""
-url-bot: ""
-thread-id:
-  global: ""
-  admin: ""
